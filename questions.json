@@ -1,0 +1,79 @@
+{
+"questions": [
+{
+    "id": 11,
+    "categorie": "Consommation alimentaire",
+    "text": "Suivez-vous un régime alimentaire végétarien ou végétalien ?",
+    "responses": {
+    "yes": {
+    "points": 10,
+    "message": "Vous faites parti du top 8% des canadiens !"
+    },
+    "no": {
+    "points": 0,
+    "message": "Consommer moins de viande réduit votre empreinte carbonne"
+    }
+    }
+    },
+    {
+    "id": 12,
+    "categorie": "Consommation alimentaire",
+    "text": "Mangez-vous moins d'une fois par semaine dans des restaurants ?",
+    "responses": {
+    "yes": {
+        "points": 10,
+        "message": "Vous êtes similaire à 46% des Québecois !"
+    },
+    "no": {
+        "points": 0,
+        "message": "Le transport d'aliments des restaurants pollue plus que l'achat en magasin"
+        }
+    }
+    },
+    {
+        "id": 13,
+        "categorie": "Consommation alimentaire",
+        "text": "Achetez-vous régulièrement des produits alimentaires locaux et de saison ?",
+        "responses": {
+        "yes": {
+        "points": 10,
+        "message": "82% des Québécois essayent d'acheter localement !"
+        },
+        "no": {
+        "points": 0,
+        "message": " L'importation d'aliments pollue énormément, essayez de manger des produits locaux"
+        }
+        }
+        },
+        {
+        "id": 14,
+        "categorie": "Consommation alimentaire",
+        "text": "Faites-vous des efforts pour réduire le gaspillage alimentaire à la maison ?",
+        "responses": {
+        "yes": {
+            "points": 10,
+            "message": "La moitié des Québécois font comme vous !"
+        },
+        "no": {
+            "points": 0,
+            "message": "Eviter le gaspillage vous fera également économiser de l'argent"
+            }
+        }
+        },
+        {
+            "id": 15,
+            "categorie": "Consommation alimentaire",
+            "text": "Achetez-vous beaucoup d'aliments ou bouteilles plastiques ?",
+            "responses": {
+            "yes": {
+            "points": 10,
+            "message": "Bravo, vous évitez de contribué aux 17% des déchets plastiques du monde !"
+            },
+            "no": {
+            "points": 0,
+            "message": "Au Canada, moins de 10% du plastique est recyclé, évitez d'acheter des aliments plastifiés"
+            }
+            }
+            }
+]
+}
